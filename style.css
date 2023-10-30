@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: block;
+    background: #010215;
+    width: 100%;
+}
+
+header img {
+    display: block;
+    max-width: 20%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header h1 {
+    width: 70%;
+    padding-left: 15%;
+    padding-right: 15%;
+    color: white;
+    margin-bottom: 25px
+}
+
+.orange-box {
+    display: block;
+    background: #ddb601;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+
+}
+.navigation {
+    float: right;
+    margin-right: 10px;
+}
+.orange-box a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    text-align: center;
+}
+
+.about {
+    width: 70%;
+    height: 200px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.about h1 {
+    width: 70%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    width: 100%;
+    height: 130px;
+    text-align: justify;
+}
+
+.red-button {
+    display: block;
+    text-align: center;
+    padding-left: 45%;
+}
+
+#go-down {
+    display: block;
+    text-align: center;
+    padding: 10px 45px;
+    background-color: #e40200;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.tables {
+    width: 100%;
+    height: 350px;
+    background: #00184c;
+}
+
+.tables h1 {
+    color: white;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.tables table {
+    color: white ;
+    width: 70%;
+    border-collapse: collapse;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.tables td, th {
+    border: 1px solid #da040b;
+    padding: 6px;
+}
+
+.Jonas {
+    text-align: center;
+}
+
+.Smiltinis {
+    text-align: right;
+    font-weight: bold;
+}
+
+#people {
+    text-align: right;
+}
+
+.contacts {
+    width: 70%;
+    height: 150px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.contacts h1 {
+    width: 70%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.contacts ul {
+    margin-left: 30px;
+}
+
+.contacts a {
+    display: block;
+    text-align: center;
+}
+
+.copyright {
+    display: block;
+    background: #ddb601;
+    color: white;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
